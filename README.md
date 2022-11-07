@@ -19,4 +19,4 @@ The following **required** functionality is completed:
 
 
 - 
-- [](../../Kapture 2022-11-07 at 18.04.42.gif)
+- 
